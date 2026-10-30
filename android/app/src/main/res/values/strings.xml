@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Mi Compañero</string>
+    <string name="title_activity_main">Mi Compañero</string>
+    <string name="package_name">com.micompanero.app</string>
+    <string name="custom_url_scheme">com.micompanero.app</string>
+</resources>
